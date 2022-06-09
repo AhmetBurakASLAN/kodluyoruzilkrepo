@@ -28,5 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce deği
 ```
 [MIT](https://choosealicense.com)
 ```
-=======
 
