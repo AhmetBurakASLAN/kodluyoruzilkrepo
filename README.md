@@ -8,7 +8,7 @@ Bu repo  .NET CORE kapsamında açtığım ilk repo. İçerisinde bir adet READM
 # Installation
 
 ```
-git clone https://github.com/AhmetBurakASLAN/kodluyoruzilkrepo
+git clone git@github.com:AhmetBurakASLAN/kodluyoruzilkrepo.git
 ```
 
 # Usage
