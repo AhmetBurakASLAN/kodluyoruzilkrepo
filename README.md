@@ -1,6 +1,7 @@
 
 # kodluyoruzilkrepo
-Bu repo  .NET Core Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README  dosyası, bir adet de index.html barındırıyor.
+<<<<<<< HEAD
+Bu repo  Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README  dosyası, bir adet de index.html barındırıyor.
 
 
 
@@ -25,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce deği
 
 # License
 [MIT](https://choosealicense.com)
+=======
+
