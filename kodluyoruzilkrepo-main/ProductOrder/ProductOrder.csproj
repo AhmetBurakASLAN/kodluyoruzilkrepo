@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2BDCAB53-D36C-4372-AEFB-5C30AB688238}</ProjectGuid>
+    <ProjectGuid>{4917CCF5-C102-46A8-8BC7-38F3074E8203}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OrderCLI</RootNamespace>
-    <AssemblyName>OrderCLI</AssemblyName>
+    <RootNamespace>ProductOrder</RootNamespace>
+    <AssemblyName>ProductOrder</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -22,7 +22,6 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <UseVSHostingProcess>true</UseVSHostingProcess>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

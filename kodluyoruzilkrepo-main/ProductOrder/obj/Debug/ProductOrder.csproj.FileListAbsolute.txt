@@ -1,0 +1,7 @@
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\bin\Debug\ProductOrder.exe.config
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\bin\Debug\ProductOrder.exe
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\bin\Debug\ProductOrder.pdb
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\obj\Debug\ProductOrder.csproj.AssemblyReference.cache
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\obj\Debug\ProductOrder.csproj.CoreCompileInputs.cache
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\obj\Debug\ProductOrder.exe
+C:\Users\inspi\OneDrive\Masaüstü\ProductOrder\obj\Debug\ProductOrder.pdb
